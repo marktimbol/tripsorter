@@ -29,5 +29,5 @@ var_dump($trip->sort());
 
 Tests
 
-1. `composer install`
-2. From your terminal, navigate to the project directory and type `vendor/bin/phpunit`
+1. From the project directory, do a `composer install` to install PHPUnit.
+2. type `vendor/bin/phpunit` then pres `enter`;
